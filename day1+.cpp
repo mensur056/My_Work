@@ -20,7 +20,7 @@ void IntroduceYourself(){
 };
 int main(){
    
-    Person person1=Person("Mansur","Sarkhanov","Azerbaijan","Engineer",23);
+    Person person1=Person("Mansur","Isgenderov","Azerbaijan","Engineer",23);
     person1.IntroduceYourself();
     Person person2=Person("Emil","Qeniyev","Germany","Lowyer",20);
     person2.IntroduceYourself();
