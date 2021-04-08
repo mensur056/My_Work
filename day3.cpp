@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
 
-    cout<<"l am Mensur";
+    cout<<"l am Mensur    as";
     
 }
 
