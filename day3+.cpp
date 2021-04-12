@@ -6,7 +6,9 @@ int x;
     cin>>x;
 
     if(x>5){
- cout<<"daxil ettiyiniz eded 5 den boyukdur";
+ cout<<"you were enter a number than five big";
+    }else{
+        cout<<"you were enter a bumber than five small"
     }
 
     
